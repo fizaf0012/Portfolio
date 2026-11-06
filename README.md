@@ -24,167 +24,100 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 
 ## Featured Projects
 
-### 1. PolicyPulse — AI-Powered Public Opinion Analytics Platform
+### 1. PolicyPulse — AI-Powered Public Opinion Analytics
 
-<table>
-<tr>
-<td width="35%" valign="top">
-<a href="Projects/PolicyPulse/">
-<img src="Projects/PolicyPulse/screenshots/dashboard.png" alt="PolicyPulse Dashboard" width="100%">
-</a>
-</td>
-<td width="65%" valign="top">
+<div align="left">
+  <img src="Projects/PolicyPulse/screenshots/dashboard.png" alt="PolicyPulse Dashboard" width="320" align="left" style="margin-right: 20px;">
+  <b>Final Year Project · NLP · Full-Stack Data Science</b>
+  <br><br>
+  An AI-powered platform analyzing public sentiment on Pakistani health and education policies using 6,000+ multilingual records.
+  <br><br>
+  <b>Highlights:</b> Multilingual NLP pipeline, XLM-RoBERTa sentiment classification, chatbot, interactive Streamlit dashboard, FastAPI and PostgreSQL.
+  <br><br>
+  <b>Tech:</b> Python · FastAPI · Streamlit · PostgreSQL · PyTorch · HuggingFace
+  <br><br>
+  <a href="Projects/PolicyPulse/">View Project & Screenshots →</a>
+</div>
 
-**Final Year Project · COMSATS University Islamabad**
-
-An end-to-end AI web platform that collects, processes, and visualizes public sentiment on Pakistani government health and education policies.
-
-Collected **6,000+ multilingual records** in Urdu, Roman Urdu, and English from YouTube and Pakistani news outlets.
-
-**Key Features**
-- Custom multilingual NLP pipeline with language detection, emoji normalization, slang standardization, and spam filtering.
-- XLM-RoBERTa for Positive/Negative/Neutral sentiment classification with confidence scoring.
-- TF-IDF + Logistic Regression chatbot with six-category intent classification.
-- Seven-page Streamlit dashboard with trend forecasting, word clouds, comparisons, and PDF/CSV export.
-- PostgreSQL database and FastAPI backend with JWT authentication and role-based access control.
-- Automated data pipeline using Python and APScheduler.
-
-**Tech Stack:** Python · FastAPI · Streamlit · PostgreSQL · XLM-RoBERTa · PyTorch · scikit-learn · Plotly
-
-**Links:** [Project Details & Screenshots](Projects/PolicyPulse/)
-
-</td>
-</tr>
-</table>
+<br clear="left">
 
 ---
 
-### 2. Social Media Analytics — Tesla Cybertruck Brand Sentiment
+### 2. Tesla Cybertruck — Social Media Sentiment Analysis
 
-<table>
-<tr>
-<td width="35%" valign="top">
-<a href="https://github.com/fizaf0012/tesla-cybertruck-dashboard">
-<img src="https://raw.githubusercontent.com/fizaf0012/tesla-cybertruck-dashboard/main/Screenshots/Dashboard.png" alt="Tesla Cybertruck Dashboard" width="100%">
-</a>
-</td>
-<td width="65%" valign="top">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/fizaf0012/tesla-cybertruck-dashboard/main/Screenshots/Dashboard.png" alt="Tesla Dashboard" width="320" align="left" style="margin-right: 20px;">
+  <b>NLP · Social Media Analytics · Data Visualization</b>
+  <br><br>
+  Analyzed Reddit discussions to understand public sentiment and trends surrounding the Tesla Cybertruck.
+  <br><br>
+  <b>Highlights:</b> VADER sentiment analysis, TF-IDF keyword extraction, LDA topic modeling and interactive Tableau dashboards.
+  <br><br>
+  <b>Tech:</b> Python · VADER · TF-IDF · LDA · Tableau · Figma
+  <br><br>
+  <a href="https://github.com/fizaf0012/tesla-cybertruck-dashboard">View Source Code →</a>
+</div>
 
-**NLP · Social Media Analytics · Data Visualization**
-
-An end-to-end analysis of Reddit data to evaluate public sentiment and discussion trends surrounding the Tesla Cybertruck.
-
-**Key Features**
-- Sentiment analysis using VADER.
-- Keyword extraction using TF-IDF.
-- Topic modeling using Latent Dirichlet Allocation (LDA).
-- Interactive Tableau dashboards for exploring sentiment and discussion trends.
-- UI planning and design using Figma.
-
-**Tech Stack:** Python · VADER · TF-IDF · LDA · Tableau · Figma · Reddit API
-
-**Links:** [Source Code & Project Files](https://github.com/fizaf0012/tesla-cybertruck-dashboard)
-
-</td>
-</tr>
-</table>
+<br clear="left">
 
 ---
 
 ### 3. Fake News Detection — Big Data Analytics
 
-<table>
-<tr>
-<td width="35%" valign="top">
-<a href="https://github.com/fizaf0012/fake-news-api">
-<img src="Projects/Fake-News-Detection/screenshots/results.png" alt="Fake News Detection Results" width="100%">
-</a>
-</td>
-<td width="65%" valign="top">
+<div align="left">
+  <img src="Projects/Fake-News-Detection/screenshots/results.png" alt="Fake News Detection" width="320" align="left" style="margin-right: 20px;">
+  <b>PySpark · Machine Learning · Cloud</b>
+  <br><br>
+  A scalable fake news classification system designed to process large text datasets using Apache Spark.
+  <br><br>
+  <b>Highlights:</b> TF-IDF feature extraction, Logistic Regression and Random Forest model comparison, AWS S3 deployment.
+  <br><br>
+  <b>Tech:</b> Python · PySpark · scikit-learn · AWS S3
+  <br><br>
+  <a href="https://github.com/fizaf0012/fake-news-api">View Source Code →</a>
+</div>
 
-**PySpark · Machine Learning · Cloud Computing**
-
-A scalable fake news classification system designed to process large-scale text datasets using Apache Spark.
-
-**Key Features**
-- Built a TF-IDF feature extraction pipeline.
-- Trained and compared Logistic Regression and Random Forest classifiers.
-- Evaluated model accuracy and performance metrics.
-- Used AWS S3 for cloud-based data access.
-
-**Tech Stack:** Python · PySpark · TF-IDF · Logistic Regression · Random Forest · AWS S3
-
-**Links:** [Source Code & Project Files](https://github.com/fizaf0012/fake-news-api)
-
-</td>
-</tr>
-</table>
+<br clear="left">
 
 ---
 
 ### 4. DevOps & Cloud Engineering
 
-<table>
-<tr>
-<td width="35%" valign="top">
-<a href="Projects/DevOps-Cloud/">
-<img src="Projects/DevOps-Cloud/screenshots/pipeline.png" alt="DevOps CI/CD Pipeline" width="100%">
-</a>
-</td>
-<td width="65%" valign="top">
+<div align="left">
+  <img src="Projects/DevOps-Cloud/screenshots/pipeline.png" alt="DevOps Pipeline" width="320" align="left" style="margin-right: 20px;">
+  <b>AWS · Docker · Kubernetes · CI/CD</b>
+  <br><br>
+  Deployed a Reddit Sentiment Analyzer using containerization, automated pipelines and cloud infrastructure.
+  <br><br>
+  <b>Highlights:</b> Docker, AWS EC2, Jenkins CI/CD, Selenium testing, Kubernetes deployment and autoscaling.
+  <br><br>
+  <b>Tech:</b> AWS · Docker · Jenkins · Selenium · pytest · Kubernetes
+  <br><br>
+  <a href="https://github.com/fizaf0012/reddit-sentiment-analyzer">Application Code</a> · <a href="https://github.com/fizaf0012/reddit-selenium-tests">Test Code</a> · <a href="Projects/DevOps-Cloud/">Project Walkthrough</a>
+</div>
 
-**AWS · Docker · Kubernetes · CI/CD**
-
-Hands-on DevOps work involving the deployment of a Reddit Sentiment Analyzer built with React, FastAPI, and PostgreSQL.
-
-**Key Features**
-- Containerized the application using Docker and Docker Compose.
-- Deployed containers on AWS EC2 and pushed images to Docker Hub.
-- Created a Jenkins CI/CD pipeline using Pipeline as Code.
-- Developed ten Selenium + pytest UI tests with HTML reporting.
-- Deployed on Kubernetes (Minikube) with persistent storage, Nginx reverse proxy, and autoscaling.
-
-**Tech Stack:** AWS EC2 · Docker · Docker Compose · Jenkins · Selenium · pytest · Kubernetes · GitHub
-
-**Links:** [Application Code](https://github.com/fizaf0012/reddit-sentiment-analyzer) · [Selenium Tests](https://github.com/fizaf0012/reddit-selenium-tests) · [Screenshots & Walkthrough](Projects/DevOps-Cloud/)
-
-</td>
-</tr>
-</table>
+<br clear="left">
 
 ---
 
 ### 5. Hotel Booking Cancellation Predictor
 
-<table>
-<tr>
-<td width="35%" valign="top">
-<a href="https://github.com/fizaf0012/ml_app_assignment">
-<img src="https://raw.githubusercontent.com/fizaf0012/ml_app_assignment/main/screenshots/streamlit_app.png" alt="Hotel Booking Prediction App" width="100%">
-</a>
-</td>
-<td width="65%" valign="top">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/fizaf0012/ml_app_assignment/main/screenshots/streamlit_app.png" alt="Hotel Booking App" width="320" align="left" style="margin-right: 20px;">
+  <b>Machine Learning · MLOps · REST API</b>
+  <br><br>
+  An end-to-end ML application predicting hotel booking cancellation risk through a trained model and interactive web interface.
+  <br><br>
+  <b>Highlights:</b> Random Forest, MLflow experiment tracking, FastAPI prediction endpoint and Streamlit interface.
+  <br><br>
+  <b>Tech:</b> Python · scikit-learn · MLflow · FastAPI · Streamlit
+  <br><br>
+  <a href="https://github.com/fizaf0012/ml_app_assignment">View Source Code →</a>
+</div>
 
-**Machine Learning · MLOps · REST API · Web Application**
+<br clear="left">
 
-An end-to-end machine learning application that predicts hotel booking cancellations, from model training and experiment tracking to API deployment and a working web interface.
-
-**Key Features**
-- Trained a Random Forest classifier with 100 trees and a maximum depth of eight.
-- Evaluated performance using a confusion matrix, ROC curve, and precision-recall curve.
-- Tracked parameters, metrics, and artifacts using MLflow.
-- Achieved 69.4% training accuracy and 0.76 ROC AUC.
-- Built a FastAPI REST API with a `/predict` endpoint and Pydantic validation.
-- Developed a Streamlit interface displaying cancellation risk probabilities.
-
-**Tech Stack:** Python · scikit-learn · Random Forest · MLflow · FastAPI · Pydantic · Streamlit
-
-**Links:** [Source Code & Project Details](https://github.com/fizaf0012/ml_app_assignment)
-
-</td>
-</tr>
-</table>
-
+---
 <!--
 ### 6. Jobify — Recruitment Analytics & BI Dashboard  (COMING SOON)
 Add this later. Repo: https://github.com/fizaf0012/Jobify-Recruitment-Analytics
