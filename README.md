@@ -120,16 +120,19 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 ---
 ### 6. Bike Sharing Interactive Dashboard
 
-[![Bike Sharing Dashboard](https://raw.githubusercontent.com/fizaf0012/Bike-Sharing-Dashboard/main/screenshots/dashboard.png)](https://fizaf0012.github.io/Bike-Sharing-Dashboard/) **Data Visualization · D3.js · Interactive Analytics**
 
-An interactive dashboard built from scratch with D3.js to explore bike-sharing trends across 1.7 million rides.
-
-**Highlights:** KPI cards, monthly ride trends by user type, bike type comparison, ride duration vs. hour of day, user type share and tree map, with filters, tooltips and zoom. Large data is pre-aggregated with Python so the page loads fast.
-
-**Tech:** JavaScript · D3.js · HTML/CSS · Python (pandas)
-
-[Live Demo →](https://fizaf0012.github.io/Bike-Sharing-Dashboard/) · [View Source Code →](https://github.com/fizaf0012/Bike-Sharing-Dashboard)
-
+<div align="left">
+  <img src="https://raw.githubusercontent.com/fizaf0012/Bike-Sharing-Dashboard/main/screenshots/dashboard.png" alt="Bike Sharing Dashboard" width="320" align="left" style="margin-right: 20px;">
+  <b>Data Visualization · D3.js · Interactive Analytics</b>
+  <br><br>
+  An interactive dashboard built from scratch with D3.js to explore bike-sharing trends across 1.7 million rides.
+  <br><br>
+  <b>Highlights:</b> KPI cards, monthly ride trends by user type, bike type comparison, ride duration vs. hour of day, user type share and tree map, with filters, tooltips and zoom. Large data is pre-aggregated with Python so the page loads fast.
+  <br><br>
+  <b>Tech:</b> JavaScript · D3.js · HTML/CSS · Python (pandas)
+  <br><br>
+  <a href="https://fizaf0012.github.io/Bike-Sharing-Dashboard/">Live Demo →</a> · <a href="https://github.com/fizaf0012/Bike-Sharing-Dashboard">View Source Code →</a>
+</div>
 * * *
 <!--
 ### 6. Jobify — Recruitment Analytics & BI Dashboard  (COMING SOON)
