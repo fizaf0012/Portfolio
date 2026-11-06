@@ -48,7 +48,7 @@ An end-to-end AI web platform that collects, processes, and visualizes public se
 ### 2. Social Media Analytics — Tesla Cybertruck Brand Sentiment
 *NLP · Data Visualization*
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/fizaf0012/tesla-cybertruck-dashboard/main/Screenshots/Dashboard.png"
        alt="Tesla Dashboard"
        width="600">
@@ -104,7 +104,7 @@ Hands-on DevOps work (2025 coursework) taking one full-stack app, the **Reddit S
 ### 5. Hotel Booking Cancellation Predictor
 *Machine Learning · MLOps · REST API · Web App*
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/fizaf0012/ml_app_assignment/main/screenshots/streamlit_app.png"
        alt="Hotel Booking"
        width="600">
