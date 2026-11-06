@@ -48,7 +48,11 @@ An end-to-end AI web platform that collects, processes, and visualizes public se
 ### 2. Social Media Analytics — Tesla Cybertruck Brand Sentiment
 *NLP · Data Visualization*
 
-![Tesla Dashboard](https://raw.githubusercontent.com/fizaf0012/tesla-cybertruck-dashboard/main/Screenshots/Dashboard.png)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/fizaf0012/tesla-cybertruck-dashboard/main/Screenshots/Dashboard.png"
+       alt="Tesla Dashboard"
+       width="700">
+</p>
 
 
 End-to-end analysis of Reddit data to evaluate public sentiment and discussion trends around the Tesla Cybertruck.
