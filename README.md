@@ -51,7 +51,7 @@ An end-to-end AI web platform that collects, processes, and visualizes public se
 <p align="left">
   <img src="https://raw.githubusercontent.com/fizaf0012/tesla-cybertruck-dashboard/main/Screenshots/Dashboard.png"
        alt="Tesla Dashboard"
-       width="700">
+       width="1000">
 </p>
 
 
@@ -104,7 +104,11 @@ Hands-on DevOps work (2025 coursework) taking one full-stack app, the **Reddit S
 ### 5. Hotel Booking Cancellation Predictor
 *Machine Learning · MLOps · REST API · Web App*
 
-[![Hotel Booking Cancellation Predictor](https://raw.githubusercontent.com/fizaf0012/ml_app_assignment/main/screenshots/streamlit_app.png)](https://github.com/fizaf0012/ml_app_assignment)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/fizaf0012/ml_app_assignment/main/screenshots/streamlit_app.png"
+       alt="Hotel Booking"
+       width="1000">
+</p>
 
 An end-to-end ML application that predicts whether a hotel booking will be cancelled, from model training and experiment tracking through to a working API and web interface.
 
