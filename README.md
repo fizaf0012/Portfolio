@@ -118,6 +118,19 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 <br clear="left">
 
 ---
+### 6. Bike Sharing Interactive Dashboard
+
+[![Bike Sharing Dashboard](https://raw.githubusercontent.com/fizaf0012/Bike-Sharing-Dashboard/main/screenshots/dashboard.png)](https://fizaf0012.github.io/Bike-Sharing-Dashboard/) **Data Visualization · D3.js · Interactive Analytics**
+
+An interactive dashboard built from scratch with D3.js to explore bike-sharing trends across 1.7 million rides.
+
+**Highlights:** KPI cards, monthly ride trends by user type, bike type comparison, ride duration vs. hour of day, user type share and tree map, with filters, tooltips and zoom. Large data is pre-aggregated with Python so the page loads fast.
+
+**Tech:** JavaScript · D3.js · HTML/CSS · Python (pandas)
+
+[Live Demo →](https://fizaf0012.github.io/Bike-Sharing-Dashboard/) · [View Source Code →](https://github.com/fizaf0012/Bike-Sharing-Dashboard)
+
+* * *
 <!--
 ### 6. Jobify — Recruitment Analytics & BI Dashboard  (COMING SOON)
 Add this later. Repo: https://github.com/fizaf0012/Jobify-Recruitment-Analytics
