@@ -133,7 +133,7 @@ This portfolio collects my projects, skills, experience, and certifications. It 
   <br><br>
   <a href="https://fizaf0012.github.io/Bike-Sharing-Dashboard/">Live Demo →</a> · <a href="https://github.com/fizaf0012/Bike-Sharing-Dashboard">View Source Code →</a>
 </div>
-* * *
+
 <!--
 ### 6. Jobify — Recruitment Analytics & BI Dashboard  (COMING SOON)
 Add this later. Repo: https://github.com/fizaf0012/Jobify-Recruitment-Analytics
