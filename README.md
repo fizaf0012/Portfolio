@@ -145,7 +145,6 @@ Add this later. Repo: https://github.com/fizaf0012/Jobify-Recruitment-Analytics
 |---|---|---|---|
 | **FAMBZZHH** — Business Website | Responsive multi-section website (Home, About, Services, Projects, Contact). EmailJS contact form delivery and Firebase real-time database. | React · Firebase · EmailJS · HTML/CSS | [Details](Projects/FAMBZZHH-Website/) |
 | **Library Management System** | Desktop app with GUI for administrators and customers: book inventory, user authentication, borrowing workflows. | Java · Advanced Java · GUI | [Details](Projects/Library-Management-System/) |
-| **Bike Sharing Dashboard** | Interactive D3.js dashboard analyzing bike-sharing trends. | JavaScript · D3.js | [Repo](https://github.com/fizaf0012/Bike-Sharing-Dashboard) |
 | **Excel Work** | Spreadsheet analysis and exercises. | Excel | [Repo](https://github.com/fizaf0012/EXCEL) |
 <!-- Jobify row will be added here later -->
 
