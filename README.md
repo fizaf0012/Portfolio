@@ -70,20 +70,7 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 
 ### 4. DevOps & Cloud Engineering
 
-<div align="left">
-  <img src="Projects/DevOps-Cloud/screenshots/pipeline.png" alt="DevOps Pipeline" width="320" align="left" style="margin-right: 20px;">
-  <b>AWS · Docker · Kubernetes · CI/CD</b>
-  <br><br>
-  Deployed a Reddit Sentiment Analyzer using containerization, automated pipelines and cloud infrastructure.
-  <br><br>
-  <b>Highlights:</b> Docker, AWS EC2, Jenkins CI/CD, Selenium testing, Kubernetes deployment and autoscaling.
-  <br><br>
-  <b>Tech:</b> AWS · Docker · Jenkins · Selenium · pytest · Kubernetes
-  <br><br>
-  <a href="https://github.com/fizaf0012/reddit-sentiment-analyzer">Application Code</a> · <a href="https://github.com/fizaf0012/reddit-selenium-tests">Test Code</a> · <a href="Projects/DevOps-Cloud/">Project Walkthrough</a>
-</div>
-
-<br clear="left">
+<div align="left"> <img src="Projects/DevOps-Cloud/screenshots/02-jenkins-cicd/03-build-1-success.png" alt="DevOps Pipeline" width="320" align="left" style="margin-right: 20px;"> <b>AWS · Docker · Kubernetes · CI/CD</b> <br><br> Deployed a Reddit Sentiment Analyzer using containerization, automated pipelines and cloud infrastructure (2025 coursework). <br><br> <b>Highlights:</b> AWS (EC2, Elastic Beanstalk, S3, RDS), Docker, Jenkins CI/CD, Selenium testing, Kubernetes deployment and autoscaling. <br><br> <b>Tech:</b> AWS · Docker · Jenkins · Selenium · pytest · Kubernetes <br><br> <a href="https://github.com/fizaf0012/reddit-sentiment-analyzer">Application Code</a> · <a href="https://github.com/fizaf0012/reddit-selenium-tests">Test Code</a> · <a href="Projects/DevOps-Cloud/">Project Walkthrough</a> </div> <br clear="left">
 
 ---
 
