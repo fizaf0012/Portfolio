@@ -63,7 +63,7 @@ This portfolio collects my projects, skills, experience, and certifications. It 
   <br><br>
   <b>Tech:</b> Python · VADER · TF-IDF · LDA · Tableau · Figma
   <br><br>
-  <a href="https://github.com/fizaf0012/tesla-cybertruck-dashboard">View Source Code →</a>
+  <a href="https://public.tableau.com/app/profile/fiza.fatima8695/viz/Tesla-CyberTruckRedditPosts/Dashboard3">Live Demo →</a> · <a href="https://github.com/fizaf0012/tesla-cybertruck-dashboard">View Source Code →</a>
 </div>
 
 <br clear="left">
@@ -72,7 +72,7 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 
 ### 4. DevOps & Cloud Engineering
 
-<div align="left"> <img src="https://github.com/fizaf0012/reddit-sentiment-analyzer/blob/main/screenshots/02-jenkins-cicd/03-build-1-success.png" alt="DevOps Pipeline" width="320" align="left" style="margin-right: 20px;"> <b>AWS · Docker · Kubernetes · CI/CD</b> <br><br> Deployed a Reddit Sentiment Analyzer using containerization, automated pipelines and cloud infrastructure (2025 coursework). <br><br> <b>Highlights:</b> AWS (EC2, Elastic Beanstalk, S3, RDS), Docker, Jenkins CI/CD, Selenium testing, Kubernetes deployment and autoscaling. <br><br> <b>Tech:</b> AWS · Docker · Jenkins · Selenium · pytest · Kubernetes <br><br> <a href="https://github.com/fizaf0012/reddit-sentiment-analyzer">Application Code</a> · <a href="https://github.com/fizaf0012/reddit-selenium-tests">Test Code</a> · <a href="Projects/reddit-sentiment-analyzer/">Project Walkthrough</a> </div> <br clear="left">
+<div align="left"> <img src="https://github.com/fizaf0012/reddit-sentiment-analyzer/blob/main/screenshots/02-jenkins-cicd/03-build-1-success.png" alt="DevOps Pipeline" width="320" align="left" style="margin-right: 20px;"> <b>AWS · Docker · Kubernetes · CI/CD</b> <br><br> Deployed a Reddit Sentiment Analyzer using containerization, automated pipelines and cloud infrastructure (2025 coursework). <br><br> <b>Highlights:</b> AWS (EC2, Elastic Beanstalk, S3, RDS), Docker, Jenkins CI/CD, Selenium testing, Kubernetes deployment and autoscaling. <br><br> <b>Tech:</b> AWS · Docker · Jenkins · Selenium · pytest · Kubernetes <br><br> <a href="https://github.com/fizaf0012/reddit-sentiment-analyzer">Application Code</a> · <a href="https://github.com/fizaf0012/reddit-selenium-tests">Test Code</a> </div> <br clear="left">
 
 ---
 
