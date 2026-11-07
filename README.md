@@ -26,21 +26,7 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 
 ### 1. PolicyPulse — AI-Powered Public Opinion Analytics
 
-<div align="left">
-  <img src="Projects/PolicyPulse/screenshots/dashboard.png" alt="PolicyPulse Dashboard" width="320" align="left" style="margin-right: 20px;">
-  <b>Final Year Project · NLP · Full-Stack Data Science</b>
-  <br><br>
-  An AI-powered platform analyzing public sentiment on Pakistani health and education policies using 6,000+ multilingual records.
-  <br><br>
-  <b>Highlights:</b> Multilingual NLP pipeline, XLM-RoBERTa sentiment classification, chatbot, interactive Streamlit dashboard, FastAPI and PostgreSQL.
-  <br><br>
-  <b>Tech:</b> Python · FastAPI · Streamlit · PostgreSQL · PyTorch · HuggingFace
-  <br><br>
-  <a href="Projects/PolicyPulse/">View Project & Screenshots →</a>
-</div>
-
-<br clear="left">
-
+<div align="left"> <img src="Projects/PolicyPulse/screenshots/03-sentiment-analysis.png" alt="PolicyPulse Dashboard" width="320" align="left" style="margin-right: 20px;"> <b>Final Year Project (team of 2) · NLP · Full-Stack Data Science</b> <br><br> An AI-powered platform analyzing public sentiment on Pakistani health and education policies, built on 6,100+ YouTube comments and 900+ news articles in Urdu, Roman Urdu, and English. <br><br> <b>Highlights:</b> Multilingual NLP pipeline, sentiment classification with confidence scoring and an XLM-RoBERTa inference module, RAG-based chatbot, 7-page interactive Streamlit dashboard, FastAPI and PostgreSQL with JWT authentication and role-based access control. <br><br> <b>Tech:</b> Python · FastAPI · Streamlit · PostgreSQL · PyTorch · HuggingFace <br><br> <a href="Projects/PolicyPulse/">View Project & Screenshots →</a> </div> <br clear="left">
 ---
 
 ### 2. Tesla Cybertruck — Social Media Sentiment Analysis
