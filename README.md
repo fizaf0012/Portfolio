@@ -108,10 +108,28 @@ This portfolio collects my projects, skills, experience, and certifications. It 
   <a href="https://fizaf0012.github.io/Bike-Sharing-Dashboard/">Live Demo →</a> · <a href="https://github.com/fizaf0012/Bike-Sharing-Dashboard">View Source Code →</a>
 </div>
 
-<!--
-### 6. Jobify — Recruitment Analytics & BI Dashboard  (COMING SOON)
-Add this later. Repo: https://github.com/fizaf0012/Jobify-Recruitment-Analytics
--->
+### 6. Jobify — Recruitment Analytics & BI Dashboard
+
+<div align="left">
+  <b>Data Engineering · SQL · BI Dashboard Design · Data Storytelling</b>
+  <br><br>
+  Built a full analytics pipeline and a 10-section Looker Studio BI dashboard for a Laravel-based recruitment platform — turning raw hiring-pipeline data into tracked KPIs for hiring velocity, reviewer workload, pipeline health, and demographics.
+  <br><br>
+  <b>Highlights:</b> Designed 4 SQL views (1 fact view + 3 aggregate views) to fix application-grain double-counting bugs, diagnosed and resolved real data-quality issues (inconsistent geography text, blank candidate identities, uniform status fields), built ~45 charts/tables and ~100 dynamic storytelling variables across 13 KPIs, and cross-verified every number against source data with SQL and pandas.
+  <br><br>
+  <img src="https://img.shields.io/badge/MySQL%2FMariaDB-4479A1?logo=mysql&logoColor=white" alt="MySQL/MariaDB">
+  <img src="https://img.shields.io/badge/SQL%20Views-336791?logo=postgresql&logoColor=white" alt="SQL Views">
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?logo=googleanalytics&logoColor=white" alt="Looker Studio">
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white" alt="Google Sheets">
+  <br><br>
+  <i>Built on a live company system during my internship at Cymax Technologies — the source database and raw applicant data are confidential, so this entry is a full case-study write-up rather than a public code repo.</i>
+  <br><br>
+  <a href="Projects/Jobify-Recruitment-Analytics/">Read the full case study →</a>
+</div>
+
+<br clear="left">
+
+---
 
 ## More Projects
 
