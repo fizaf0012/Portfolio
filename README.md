@@ -121,7 +121,7 @@ This portfolio collects my projects, skills, experience, and certifications. It 
   <b>Tech:</b> JavaScript · D3.js · HTML/CSS · Python (pandas)
   <br><br>
   <a href="https://fizaf0012.github.io/Bike-Sharing-Dashboard/">Live Demo →</a> · <a href="https://github.com/fizaf0012/Bike-Sharing-Dashboard">View Source Code →</a>
-  <br><sub>fizaf0012.github.io/Bike-Sharing-Dashboard · github.com/fizaf0012/Bike-Sharing-Dashboard</sub>
+  <br><sub>github.com/fizaf0012/Bike-Sharing-Dashboard</sub>
 </div>
 
 <br clear="left">
