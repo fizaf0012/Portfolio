@@ -24,7 +24,7 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 
 ### 1. Jobify — Recruitment Analytics & BI Dashboard
 
-<div align="left">
+<div align="left"><img src="https://github.com/fizaf0012/Jobify-Recruitment-Analytics/blob/main/dashboard/kpi.png" alt="PolicyPulse Dashboard" width="380" align="left" style="margin-right: 20px;">
   <b>Data Engineering · SQL · BI Dashboard Design · Data Storytelling</b>
   <br><br>
   Built a full analytics pipeline and a 10-section Looker Studio BI dashboard for a Laravel-based recruitment platform — turning raw hiring-pipeline data into tracked KPIs for hiring velocity, reviewer workload, pipeline health, and demographics.
