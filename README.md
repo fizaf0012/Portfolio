@@ -36,7 +36,7 @@ This portfolio collects my projects, skills, experience, and certifications. It 
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?logo=googleanalytics&logoColor=white" alt="Looker Studio">
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white" alt="Google Sheets">
   <br><br>
-  <i>Built on a live company system during my internship at Cymax Technologies — the source database and raw applicant data are confidential, so this entry is a full case-study write-up rather than a public code repo.</i>
+  <i>Built on a live company system during my internship  — the source database and raw applicant data are confidential, so this entry is a full case-study write-up rather than a public code repo.</i>
   <br><br>
   <a href="https://datastudio.google.com/reporting/5bfba7f0-2dc8-40f9-a080-9bd25eeede1c
 ">Live Demo →</a> · <a href="https://github.com/fizaf0012/Jobify-Recruitment-Analytics">Read the full case study →</a>
