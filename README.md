@@ -177,7 +177,6 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 - [Introduction to Networking — Cisco](Certificates/)
 - [Tinder Clone Project — Microsoft DevTown](Certificates/)
 
-> Tip: after uploading each certificate into the `Certificates/` folder, replace the `Certificates/` link above with the exact file path, e.g. `Certificates/cisco-networking.pdf`.
 
 ---
 
