@@ -160,9 +160,9 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 
 ## Certifications
 
-- [IT & Software Engineering Internship Certification](Certificates/cymax.png)
+- [IT & Software Engineering Internship Certification]()
 - [Data Science & Analytics Internship Certification](Certificates/dnd.png)
-- [Introduction to Networking — Cisco](Certificates/CCNA:IntroductiontoNetworks.pdf)
+- [Introduction to Networking — Cisco](https://github.com/fizaf0012/Portfolio/blob/main/Certificates/CCNA%3A%20Introduction%20to%20Networks.pdf)
 - [Switching, Routing, and Wireless Essentials — Cisco](Certificates/CCNA:Switching,Routing,andWirelessEssentials.pdf)
 - [Tinder Clone Project — Microsoft DevTown](Certificates/devtown.pdf)
 - [Introduction to Figma](Certificates/figma.png.pdf)
