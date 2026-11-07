@@ -174,7 +174,7 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 ## Certifications
 
 - [Data Science & Analytics Internship Certification](Certificates/)
-- [Introduction to Networking — Cisco](Certificates/)
+- [Introduction to Networking — Cisco](Certificates/cisco.pdf)
 - [Tinder Clone Project — Microsoft DevTown](Certificates/)
 
 
