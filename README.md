@@ -14,7 +14,6 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 ## Table of Contents
 
 - [Featured Projects](#featured-projects)
-- [More Projects](#more-projects)
 - [Experience](#experience)
 - [Core Competencies](#core-competencies)
 - [Education](#education)
