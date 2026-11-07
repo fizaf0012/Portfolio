@@ -26,7 +26,17 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 
 ### 1. PolicyPulse — AI-Powered Public Opinion Analytics
 
-<table> <tr> <td width="340" valign="top"> <a href="https://github.com/fizaf0012/Policy-Pulse---FYP"><img src="https://raw.githubusercontent.com/fizaf0012/Policy-Pulse---FYP/main/screenshots/01-home.png" alt="PolicyPulse Dashboard" width="320"></a> </td> <td valign="top"> <b>Final Year Project (team of 2) · NLP · Full-Stack Data Science</b> <br><br> Turns 7,000+ Urdu, Roman Urdu, and English comments and news articles into live sentiment insights on Pakistani health and education policies. <br><br> • Multilingual NLP pipeline with language detection<br> • Sentiment classification with confidence scores<br> • RAG chatbot over live statistics<br> • 7-page Streamlit dashboard with trend forecasting<br> • JWT auth, role-based access, audit logging <br><br> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black" alt="HuggingFace"> <br><br> <a href="https://github.com/fizaf0012/Policy-Pulse---FYP">View Project & Screenshots →</a> </td> </tr> </table>
+<a href="https://github.com/fizaf0012/Policy-Pulse---FYP"><img src="https://raw.githubusercontent.com/fizaf0012/Policy-Pulse---FYP/main/screenshots/01-home.png" alt="PolicyPulse Dashboard" width="600"></a>
+
+Final Year Project (team of 2) · NLP · Full-Stack Data Science
+
+Turns 7,000+ Urdu, Roman Urdu, and English comments and news articles into live sentiment insights on Pakistani health and education policies.
+
+Multilingual NLP pipeline with language detection
+Sentiment classification with confidence scores
+RAG chatbot over live statistics
+7-page Streamlit dashboard with trend forecasting
+JWT auth, role-based access, audit logging
 ---
 
 ### 2. Tesla Cybertruck — Social Media Sentiment Analysis
