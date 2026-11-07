@@ -26,12 +26,7 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 
 ### 1. PolicyPulse — AI-Powered Public Opinion Analytics
 
-<a href="https://github.com/fizaf0012/Policy-Pulse---FYP"><img src="https://raw.githubusercontent.com/fizaf0012/Policy-Pulse---FYP/main/screenshots/01-home.png" alt="PolicyPulse Dashboard" width="600"></a>
-
-Final Year Project (team of 2) · NLP · Full-Stack Data Science
-
-Turns 7,000+ Urdu, Roman Urdu, and English comments and news articles into live sentiment insights on Pakistani health and education policies.
-
+<div align="left"> <img src="https://raw.githubusercontent.com/fizaf0012/Policy-Pulse---FYP/main/screenshots/01-home.png" alt="PolicyPulse Dashboard" width="380" align="left" style="margin-right: 20px;"> <b>Final Year Project (team of 2) · NLP · Data Science</b> <br><br> Turns 7,000+ Urdu, Roman Urdu, and English comments and news articles into live sentiment insights on Pakistani health and education policies. </div> <br clear="left">
 Multilingual NLP pipeline with language detection
 Sentiment classification with confidence scores
 RAG chatbot over live statistics
