@@ -37,6 +37,10 @@ Sentiment classification with confidence scores
 RAG chatbot over live statistics
 7-page Streamlit dashboard with trend forecasting
 JWT auth, role-based access, audit logging
+
+Show Image Show Image Show Image Show Image Show Image Show Image
+
+View Project & Screenshots →
 ---
 
 ### 2. Tesla Cybertruck — Social Media Sentiment Analysis
