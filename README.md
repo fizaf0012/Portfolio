@@ -16,7 +16,6 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 - [Featured Projects](#featured-projects)
 - [Experience](#experience)
 - [Core Competencies](#core-competencies)
-- [Education](#education)
 - [Certifications](#certifications)
 
 ---
@@ -130,10 +129,6 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 
 ---
 
-
-
-
-
 ## Experience
 
 ### IT & Software Engineering Intern — Cymax Technologies, NSTP
@@ -162,13 +157,6 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 
 ---
 
-## Education
-
-- **Bachelor of Data Science** — COMSATS University Islamabad (2022 – 2026)
-- **FSc (Pre-Engineering)** — KRL Model College (2020 – 2022)
-- **Matric** — KRL Model College (2018 – 2020)
-
----
 
 ## Certifications
 
