@@ -135,10 +135,9 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 
 | Project | Description | Tech | Links |
 |---|---|---|---|
-| **FAMBZZHH** — Business Website | Responsive multi-section website (Home, About, Services, Projects, Contact). EmailJS contact form delivery and Firebase real-time database. | React · Firebase · EmailJS · HTML/CSS | [Details](Projects/FAMBZZHH-Website/) |
 | **Library Management System** | Desktop app with GUI for administrators and customers: book inventory, user authentication, borrowing workflows. | Java · Advanced Java · GUI | [Details](Projects/Library-Management-System/) |
-| **Excel Work** | Spreadsheet analysis and exercises. | Excel | [Repo](https://github.com/fizaf0012/EXCEL) |
-<!-- Jobify row will be added here later -->
+| **Fake News Detection** | A machine learning model that classifies news text as Real or Fake. | Python · scikit-learn · XGBoost · TF-IDF · FastAPI · Uvicorn · HTML/CSS/JavaScript · Docker · GitHub Actions | [Repo](https://github.com/fizaf0012/fake-news-api) |
+
 
 > Only PolicyPulse, FAMBZZHH, and Library Management System use a `Projects/` folder in this repo, because they have no public source code. All other projects link directly to their own repositories.
 
