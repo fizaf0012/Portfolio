@@ -173,9 +173,12 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 
 ## Certifications
 
-- [Data Science & Analytics Internship Certification](Certificates/)
-- [Introduction to Networking — Cisco](Certificates/cisco.pdf)
-- [Tinder Clone Project — Microsoft DevTown](Certificates/)
+- [IT & Software Engineering Internship Certification](Certificates/cymax.png)
+- [Data Science & Analytics Internship Certification](Certificates/dnd.png)
+- [Introduction to Networking — Cisco](Certificates/CCNA:IntroductiontoNetworks.pdf)
+- [Introduction to Networking — Cisco](Certificates/CCNA:Switching,Routing,andWirelessEssentials.pdf)
+- [Tinder Clone Project — Microsoft DevTown](Certificates/devtown.pdf)
+- [Introduction to Figma](Certificates/figma.png.pdf)
 
 
 ---
