@@ -52,14 +52,14 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 ### 3. Fake News Detection — Big Data Analytics
 
 <div align="left">
-  <img src="Projects/Fake-News-Detection/screenshots/results.png" alt="Fake News Detection" width="320" align="left" style="margin-right: 20px;">
+  <img src="https://github.com/fizaf0012/fake-news-api/blob/main/screenshots/web_ui.png" alt="Fake News Detection" width="320" align="left" style="margin-right: 20px;">
   <b>PySpark · Machine Learning · Cloud</b>
   <br><br>
   A scalable fake news classification system designed to process large text datasets using Apache Spark.
   <br><br>
   <b>Highlights:</b> TF-IDF feature extraction, Logistic Regression and Random Forest model comparison, AWS S3 deployment.
   <br><br>
-  <b>Tech:</b> Python · PySpark · scikit-learn · AWS S3
+  <b>Tech:</b> Python · scikit-learn · XGBoost · TF-IDF · FastAPI · Uvicorn · HTML/CSS/JavaScript · Docker · GitHub Actions
   <br><br>
   <a href="https://github.com/fizaf0012/fake-news-api">View Source Code →</a>
 </div>
@@ -131,17 +131,9 @@ This portfolio collects my projects, skills, experience, and certifications. It 
 
 ---
 
-## More Projects
-
-| Project | Description | Tech | Links |
-|---|---|---|---|
-| **Library Management System** | Desktop app with GUI for administrators and customers: book inventory, user authentication, borrowing workflows. | Java · Advanced Java · GUI | [Details](Projects/Library-Management-System/) |
-| **Fake News Detection** | A machine learning model that classifies news text as Real or Fake. | Python · scikit-learn · XGBoost · TF-IDF · FastAPI · Uvicorn · HTML/CSS/JavaScript · Docker · GitHub Actions | [Repo](https://github.com/fizaf0012/fake-news-api) |
 
 
-> Only PolicyPulse, FAMBZZHH, and Library Management System use a `Projects/` folder in this repo, because they have no public source code. All other projects link directly to their own repositories.
 
----
 
 ## Experience
 
